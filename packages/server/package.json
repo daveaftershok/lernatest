@@ -6,5 +6,6 @@
   "dependencies": {
     "@dave/common": "^1.0.1",
     "graphql-yoga": "^1.18.3"
-  }
+  },
+  "gitHead": "eb4c39f4c631cc78885291f3c4458460802bfe2f"
 }
