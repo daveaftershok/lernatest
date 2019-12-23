@@ -1,13 +1,13 @@
 {
   "name": "@dave/usescommon",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
     "test": "echo test"
   },
   "dependencies": {
-    "@dave/common": "^1.0.1"
+    "@dave/common": "^1.0.2"
   },
   "gitHead": "eb4c39f4c631cc78885291f3c4458460802bfe2f"
 }
