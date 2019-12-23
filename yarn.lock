@@ -2,6 +2,10 @@
 # yarn lockfile v1
 
 
+"@dave/common@1.0.3":
+  version "1.0.2"
+  resolved "http://localhost:4873/@dave%2fcommon/-/common-1.0.2.tgz#fd877cf8c6487ddec17bb7728a6ed416236b2622"
+
 "@evocateur/libnpmaccess@^3.1.2":
   version "3.1.2"
   resolved "https://registry.yarnpkg.com/@evocateur/libnpmaccess/-/libnpmaccess-3.1.2.tgz#ecf7f6ce6b004e9f942b098d92200be4a4b1c845"
